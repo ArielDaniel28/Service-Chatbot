@@ -1,5 +1,5 @@
 ## Service Chatbot Based on OpenAI API
-Overview
+## Overview
 Developed the "Service Chatbot Based on OpenAI API" using Python and OpenAI API. This project leverages object-oriented programming (OOP) principles to design a modular architecture. The chatbot is capable of handling customer inquiries related to order status, return policies, and more.
 
 ## Features
